@@ -1,0 +1,2 @@
+# magazine
+magazine_1
